@@ -23,7 +23,7 @@ heating up the diode will decrease the internal resistance and the volatege drop
 
 ######solder ion is off
 
-![1N4148 solder ion is off 559mV](1N4148_off_559mV.jpg)
+![1N4148 solder ion is off 559mV](images/1N4148_off_559mV.jpg)
 
 ######round about 270°C
 
