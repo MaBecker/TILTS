@@ -1,4 +1,4 @@
-#1N4148 temperatur profile
+#1N4148 temperature profile
 
 ######description
 
