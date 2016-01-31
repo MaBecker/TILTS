@@ -31,8 +31,8 @@ heating up the diode will decrease the internal resistance and the volatege drop
 
 ######create your own temperature profile
 
-used a very precise temperature control solder station and changed temperature from 100° to 325°C  in steps of 25°
-and at the end 180° and 190°
+used a very precise temperature control solder station and eg changed temperature from 100°C to 325°C  in steps of 25°C
+or  just go for some temperatures like  180°C and 190°C
 
 ![1N4148 temperature plot 01](images/1N4148_temperature_plot_01.jpg)
 
