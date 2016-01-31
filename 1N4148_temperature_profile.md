@@ -14,7 +14,7 @@ calibation off an solder ion without temp control but with a poti for fixed temp
 	
 ######how
 
-heating up the diode will decrease the internal resistance and the volatege drops
+heating up the diode will decrease the internal resistance and the voltage drops
 
 ![1N4148_temperature_profile.JPG](images/1N4148_temperature_profile.JPG)
 
