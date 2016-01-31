@@ -36,6 +36,8 @@ or  just go for some temperatures like  180°C and 190°C
 
 ![1N4148 temperature plot 01](images/1N4148_temperature_plot_01.jpg)
 
+Note: wobbles are comming from the solder station, so go for a graph with arithmetic average values 
+
 
 
 
