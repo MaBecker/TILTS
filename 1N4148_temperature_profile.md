@@ -25,8 +25,17 @@ heating up the diode will decrease the internal resistance and the volatege drop
 
 ![1N4148 solder ion is off 559mV](images/1N4148_off_559mV.jpg)
 
-######round about 270°C
+######solder round about 270°C
 
 ![1N4148 270°C 247mV](images/1N4148_270C_247mV.jpg)
+
+######create your own temperature profile
+
+used a very precise temperature control solder station and changed temperature from 100° to 325°C  in steps of 25°
+and at the end 180° and 190°
+
+![1N4148 temperature plot 01](images/1N4148_temperature_plot_01.jpg)
+
+
 
 
