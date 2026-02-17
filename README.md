@@ -4,6 +4,6 @@
 
 [sysInfo for macOS](code/sysinfo.sh)
 
-[Ollama Server on MacOS](Ollama Server on MacOS.md)
+[Ollama Server on MacOS](Ollama Server on Mac Studio M1.md)
 
 
